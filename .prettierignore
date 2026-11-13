@@ -1,0 +1,5 @@
+AGENTS.md
+.next/
+out/
+build/
+coverage/
